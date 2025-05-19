@@ -1,16 +1,33 @@
-# quiz
+# 🧠 Brain Booster - AI Quiz App
 
-A new Flutter project.
+Brain Booster is a minimal, modern Flutter-based quiz app that generates quiz questions using GROQ's LLM API. It supports multiple categories like General Knowledge, Music, Sports, and Technology, offering users an engaging and dynamic learning experience.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🔥 AI-generated quizzes using GROQ's LLM (LLaMA 3)
+- 🎯 Multiple categories (General Knowledge, Music, Sports, Technology)
+- ✅ Real-time feedback with correct/incorrect answer highlighting
+- ⏱ 30-second timer per question
+- 📊 Score and percentage-based result screen
+- 📱 Mobile-friendly UI with modern UX principles
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- GROQ LLM API
+- HTTP package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+- Flutter SDK (3.0+ recommended)
+- Dart
+- Android Studio / VS Code
+
+### Installation
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/your-username/brain-booster.git
+cd brain-booster
